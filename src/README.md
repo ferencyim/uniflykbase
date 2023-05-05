@@ -1,14 +1,7 @@
 ---
 home: false
 icon: home
-title: 飞行笔记
-heroImage: /logo.svg
-heroText: 这里是heroTEXT
-tagline: 这里是TAGLINE
-
-
-copyright: false
-footer: Theme by  | MIT Licensed, Copyright © 2019-present Mr.Hope
+title: 笔记说明
 ---
 
 

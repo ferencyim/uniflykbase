@@ -1,9 +1,7 @@
 ---
-title: Features Demo
-index: false
+title: 运行程序
 icon: discover
-category:
-  - Guide
+order: 1
 ---
 
 ## Catalog

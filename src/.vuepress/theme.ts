@@ -12,9 +12,11 @@ export default hopeTheme({
 
   logo: "/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ferencyim/uniflykbase",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "/src",
+
+  sidebar: "structure",
 
   encrypt: {
     config: {
@@ -27,7 +29,6 @@ export default hopeTheme({
     comment: {
       provider: "Waline",
       serverURL: "https://uniflycomment-nim2a2fpe-ferencyim.vercel.app/",
-      meta: 
     },
 
     // all features are enabled for demo, only preserve features you need here

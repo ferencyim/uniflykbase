@@ -1,6 +1,7 @@
 ---
-title: Guide
+title: 科目
 icon: creative
+order: 10
 ---
 
 ## Highlight Features
