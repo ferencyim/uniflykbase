@@ -10,9 +10,10 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/飞力引擎logo.png",
 
   repo: "ferencyim/uniflykbase",
+  repoDisplay: false,
 
   docsDir: "/src",
 
@@ -29,6 +30,7 @@ export default hopeTheme({
     comment: {
       provider: "Waline",
       serverURL: "https://uniflycomment-nim2a2fpe-ferencyim.vercel.app/",
+      meta: ['nick', 'mail']
     },
 
     // all features are enabled for demo, only preserve features you need here
